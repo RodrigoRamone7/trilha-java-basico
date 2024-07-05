@@ -3,7 +3,7 @@ import funcionalidades.aparelhoTelefonico.AparelhoTelefonico;
 import funcionalidades.navegadorInternet.NavegadorInternet;
 import funcionalidades.reprodutorMusical.ReprodutorMusical;
 
-public class Apresentação {
+public class Apresentacao {
     public static void main(String[] args) {
         Iphone iphone = new Iphone();
 

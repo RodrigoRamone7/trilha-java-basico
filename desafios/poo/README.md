@@ -32,3 +32,9 @@ Implementar as classes e interfaces correspondentes em Java (Opcional).
 ![Diagrama do iphone](diagramas/AbstracaoIphone.png)
 
 [Projeto Original em Modelio](diagramas/ApresentacaoApple.rar)
+
+## Projeto Implementado em Java
+
+O Projeto se encontra na pasta [aparelhos-apple](aparelhos-apple) e segue a classe principal com sua instanciação é `Apresentacao.java` o método main executará todas as funções do iphone.
+
+Fiz a atribuição em outras variáveis para melhor ilustrar a implementação das interfaces no iphone.
